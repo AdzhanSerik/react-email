@@ -26,6 +26,6 @@ export function Details({details, setDetails}) {
             
         </div>
         </>
-        // use Stateeee
+        dasdadadasdsadasdasds
     )
 }
